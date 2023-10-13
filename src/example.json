@@ -1,0 +1,41 @@
+{
+  "userID": "347096063569559553",
+  "type": 1,
+  "id": "347096063569559553",
+  "title": "Poop",
+  "description": "*ribbit*",
+  "accessibilityLabel": "Poopers",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/reducedMotion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/loop.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 5760,
+      "loopDelay": 5760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100
+    }
+  ]
+}
